@@ -7,7 +7,7 @@ class HelloWorldModel
 {
 
     /**
-     * @database ({"name":"liequ"})
+     * @database ({"name":"source_name"})
      */
     private $db;
 
