@@ -1,0 +1,18 @@
+{
+	"database": {
+		"liequ": {
+			"namespace": "Joomla\\Database\\DatabaseDriver::getInstance",
+			"connect_info": {
+				"driver": "mysql",
+				"host": "##",
+				"user": "##",
+				"password": "##",
+				"port": 3306,
+				"database": "##"
+			}
+		}
+	},
+	"autowired": {
+		"hello_world": "HelloWorldModel"
+	}
+}

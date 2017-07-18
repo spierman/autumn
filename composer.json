@@ -1,0 +1,28 @@
+{
+	"name": "smiler/autumn",
+	"description": "php annotation mvc",
+	"keywords": [
+		"smiler",
+		"autumn",
+		"restful"
+	],
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4",
+		"zeptech/annotations": "^1.1",
+		"mtdowling/jmespath.php": "^2.4"
+	},
+	"require-dev": {
+	},
+	"authors": [
+		{
+			"name": "spiderman",
+			"email": "spiderman1517650@163.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Smiler\\Autumn\\": "src/Smiler/Autumn"
+		}
+	}
+}
