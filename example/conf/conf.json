@@ -1,6 +1,6 @@
 {
 	"database": {
-		"liequ": {
+		"source_name": {
 			"namespace": "Joomla\\Database\\DatabaseDriver::getInstance",
 			"connect_info": {
 				"driver": "mysql",
