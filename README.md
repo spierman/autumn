@@ -42,8 +42,7 @@ class HelloWorld
 
 ### Author
 
-Jordi Boggiano - <j.boggiano@seld.be> - <http://twitter.com/seldaek><br />
-See also the list of [contributors](https://github.com/Seldaek/monolog/contributors) which participated in this project.
+spiderman - <spiderman1517650@163.com>
 
 ### License
 
