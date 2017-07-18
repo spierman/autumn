@@ -9,7 +9,6 @@ $ composer require smiler/autumn
 ```
 
 ## Basic Usage
-
 ```php
 <?php
 
@@ -33,7 +32,35 @@ class HelloWorld
         $this->helloWorldModel->execute();
     }
 }
+
+<?php
+/**
+ * @model (hello_world)
+ */
+class HelloWorldModel
+{
+
+    /**
+     * @database ({"name":"source_name"})
+     */
+    private $db;
+
+    public function execute()
+    {
+        echo 345677;
+    }
+}
+
 ```
+## Attention
+the name of php file must be equals to the class name,eg.
+
+```php
+HelloWorld.php
+
+class HelloWorld{}
+```
+
 ## Documentation
 
 ### Requirements
