@@ -50,6 +50,6 @@ Autumn is licensed under the MIT License - see the `LICENSE` file for details
 
 ### Acknowledgements
 
-PHP Reflection
-JsonPath
+PHP Reflection</br>
+JsonPath</br>
 Class Annotation
