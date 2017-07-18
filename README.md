@@ -47,7 +47,7 @@ See also the list of [contributors](https://github.com/Seldaek/monolog/contribut
 
 ### License
 
-Monolog is licensed under the MIT License - see the `LICENSE` file for details
+Autumn is licensed under the MIT License - see the `LICENSE` file for details
 
 ### Acknowledgements
 
